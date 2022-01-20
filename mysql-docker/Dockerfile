@@ -1,5 +1,5 @@
 
-FROM mysql:5.6
+FROM mysql:5.7.35
  
 ENV MYSQL_ALLOW_EMPTY_PASSWORD yes
  
